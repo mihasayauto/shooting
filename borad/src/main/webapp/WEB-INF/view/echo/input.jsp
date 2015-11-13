@@ -29,7 +29,7 @@
 <tr>
 	<td width="20%"></td>
 	<td width="10%">${echoForm.name}</td>
-<td width="50%"></td>
+<td width="50%">${echoForm.message}</td>
 </tr>
 </c:forEach>
 
