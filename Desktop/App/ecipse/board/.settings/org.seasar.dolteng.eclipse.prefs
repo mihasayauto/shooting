@@ -1,0 +1,9 @@
+DaoType=S2JDBC
+DefaultResourcePath=/board/src/main/resources
+DefaultRootPackage=board
+DefaultSrcPath=/board/src/main/java
+ServletPath=/board
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
+prefs.children=s2jdbc.dicon,jdbc.dicon,

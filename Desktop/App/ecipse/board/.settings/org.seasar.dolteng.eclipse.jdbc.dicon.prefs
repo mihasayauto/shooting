@@ -1,0 +1,8 @@
+Charset=UTF-8
+ConnectionName=jdbc.dicon
+ConnectionUrl=jdbc\:mysql\://localhost\:3306/boraddb
+DriverClass=com.mysql.jdbc.Driver
+DriverPath=/Users/mihasayauto/Desktop/App/ecipse/board/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar|
+Pass=test
+User=testuser
+eclipse.preferences.version=1
